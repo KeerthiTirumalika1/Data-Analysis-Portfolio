@@ -10,7 +10,7 @@ This Tableau dashboard analyzes global product demand and sales performance acro
 - Identified top customers by revenue and quantity
 
 ## 🖼️ Dashboard Preview
-![Dashboard](<img width="2730" height="1534" alt="global-product-demand" src="https://github.com/user-attachments/assets/ac60c921-01b0-4e79-a5fe-7ca99950179f" />
+![Dashboard](global-product-demand.png)
 )
 
 ## 🔗 Tableau Public Link
